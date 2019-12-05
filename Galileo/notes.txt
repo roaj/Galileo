@@ -1,0 +1,10 @@
+Target is measured in rads/s 
+PWM is measured in Voltage
+
+-Encoder to blue
+-From blue to motor drive is pwm
+-from driver to motor is 12V*pwm 
+
+
+9. 
+    a)
